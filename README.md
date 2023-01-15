@@ -5,7 +5,7 @@
 
  Прогнозування ціни будинку в залежності від параметрів(розмір його площі) з використання тренування, верифікації нейромережі.
  
-результат роботи: https://colab.research.google.com/gist/slisnychyi/0e946085e34627d15e8bae872e34b439/neuronetwork.ipynb
+**результат роботи:** https://colab.research.google.com/gist/slisnychyi/0e946085e34627d15e8bae872e34b439/neuronetwork.ipynb
 
 для роботи використано: **Google CoLabaratory** 
 
